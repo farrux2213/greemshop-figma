@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap");
+body {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.product {
+  width: 258px;
+  height: 340px;
+  border: 3px solid #fbfbfb;
+  /* background-color: #fbfbfb; */
+}
+.product-img {
+  height: 270px;
+  margin: auto;
+  background-color: #fbfbfb;
+}
+.image {
+  width: 100%;
+
+  /* background-color: #fbfbfb; */
+}
+
+.nameFlower1 {
+  font-family: "Ysabeau Office", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  color: #3d3d3d;
+}
+.priceFlower1 {
+  font-family: "Ysabeau Office", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: left;
+  color: #46a358;
+}
+.allFlowers {
+  display: flex;
+  flex-direction: column;
+  gap: 90px;
+}
+.qator1 {
+  display: flex;
+  gap: 20px;
+}
+.qator2 {
+  display: flex;
+  gap: 20px;
+}
+.qator3 {
+  display: flex;
+  gap: 20px;
+}
